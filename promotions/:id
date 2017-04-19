@@ -7,7 +7,7 @@
     <div class="details_row">
         <div class="details_col_3 hidden_phone">
            <a href="/events-and-promotions">
-            <img src="http://codecloud.cdn.speedyrails.net/sites/58f648356e6f645736040000/image/jpeg/1492483370000/ppr_440x1200_side_events.jpgg" /></a>
+            <img src="http://codecloud.cdn.speedyrails.net/sites/58f648356e6f645736040000/image/jpeg/1492483370000/ppr_440x1200_side_events.jpg" /></a>
         </div>
         <div class="details_col_9" id="promotion_details_container">
             <script id="promotion_details_template" type="x-tmpl-mustache/text">
