@@ -61,8 +61,8 @@
     
     <!-- Site data -->
     <script>
-        // setEndPoint('//paseoreal.mallmaverick.com/api/v3/paseoreal/all.json');
-        setEndPoint('//twinpines.mallmaverick.com/api/v3/twinpines/all.json');
+        setEndPoint('//paseoreal.mallmaverick.com/api/v3/paseoreal/all.json');
+        
     </script>
 </head>
 
