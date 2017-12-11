@@ -168,7 +168,7 @@
     <section class="copyright_footer main_container">
         <div class="text-center visible_phone">
             <p class="footer_text">
-                © Copyright 2017 Plaza Paseo Real
+                © Copyright <span class="current_year"></span> Plaza Paseo Real
             </p>
             <p class="footer_text">
                6941- 6985 El Camino Real Carlsbad, CA 92009
@@ -185,7 +185,7 @@
         <div class="row hidden_phone">
             <div class="col-md-6">
                 <p class="footer_text">
-                    © Copyright 2017 Plaza Paseo Real
+                    © Copyright <span class="current_year"></span> Plaza Paseo Real
                 </p>
                 <p class="footer_text">
                     Powered by <a href="//mallmaverick.com" target="_blank">Mall Maverick</a>
