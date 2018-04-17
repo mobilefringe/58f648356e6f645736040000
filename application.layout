@@ -138,8 +138,9 @@
                             {%endraw%}
                         </p>
                     </script>
-                    <p>Some store hhours may vary</p>
+                    
                 </div>
+                <p>Some store hhours may vary</p>
                 <div class="clearfix"></div>
                 <hr class="visible_phone mobile_separator" />
             </div>
