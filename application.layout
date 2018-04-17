@@ -137,9 +137,9 @@
                                 {{hour}}
                             {%endraw%}
                         </p>
-                         <p>Some store hhours may vary</p>
+                        
                     </script>
-                    
+                     <p>Some store hours may vary</p>
                 </div>
                
                 <div class="clearfix"></div>
