@@ -137,10 +137,11 @@
                                 {{hour}}
                             {%endraw%}
                         </p>
+                         <p>Some store hhours may vary</p>
                     </script>
                     
                 </div>
-                <p>Some store hhours may vary</p>
+               
                 <div class="clearfix"></div>
                 <hr class="visible_phone mobile_separator" />
             </div>
